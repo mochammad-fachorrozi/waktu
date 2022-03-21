@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.jam-digital, .calender {
+    overflow: hidden;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 5px solid grey;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jam-digital h4 {
+    padding: 5px;
+}
+
+.kotak {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(173, 173, 173);
+}
+
+.jam-digital p {
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.kotak-tgl {
+    float: left;
+    width: 75px;
+    height: 100px;
+    background-color: rgb(173, 173, 173);
+}
+
+.calender h4 {
+    padding: 5px;
+}
+
+.calender p {
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    margin: 30px auto;
+}
